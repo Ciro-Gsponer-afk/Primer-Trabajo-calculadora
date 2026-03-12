@@ -1,13 +1,10 @@
 const pantalla = document.getElementById("Pantalla")
-
 const Nums = document.querySelectorAll(".Numero")
-
 const suma = document.getElementById("Suma")
 const resta = document.getElementById("Resta")
 const division = document.getElementById("Division")
 const multiplicacion = document.getElementById("Multiplicacion")
 const respuesta = document.getElementById("Respuesta")
-
 const resultado = document.getElementById("Resultado")
 let Numero1 = ""
 let Numero2 = ""
